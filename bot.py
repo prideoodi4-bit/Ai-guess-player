@@ -47,7 +47,7 @@ def normalize(s):
 
 def request_json(url, payload, headers=None, timeout=45):
     req = urllib.request.Request(url, json.dumps(payload).encode(),
-        {'Content-Type':'application/json', **(headers or {})})
+        {'Content-Type':'application/json', 'User-Agent':'FootballDuelBot/1.1', **(headers or {})})
     with urllib.request.urlopen(req, timeout=timeout) as response:
         return json.load(response)
 
@@ -114,6 +114,31 @@ class Gemini:
             raise AIError('تعذر الحصول على جواب موثوق من Gemini؛ دورك محفوظ.') from None
 
 
+def groq_http_error(error, stage):
+    # Only known error codes are retained; never log raw body, URL or token.
+    known = {'invalid_api_key','model_not_found','model_permission_blocked',
+             'organization_restricted','organization_blocked','rate_limit_exceeded',
+             'insufficient_quota','tool_use_failed','json_validate_failed',
+             'permission_denied','access_denied','invalid_request_error'}
+    code = ''
+    try:
+        body=json.loads(error.read(8192))
+        candidate=body.get('error',{}).get('code','')
+        if candidate in known:
+            code=candidate
+    except (ValueError,TypeError,AttributeError,OSError):
+        pass
+    logging.warning('Groq stage=%s HTTP=%s code=%s',stage,error.code,code or 'unspecified')
+    hints={401:'المفتاح غير مقبول أو غير صالح.',
+           403:'الطلب ممنوع؛ نحتاج مراجعة صلاحيات الحساب/الموديل أو وصول الاستضافة.',
+           400:'إعداد الطلب أو الموديل غير مقبول.',
+           402:'راجع خطة الحساب أو رصيده.',
+           404:'الموديل أو المسار غير موجود.',
+           429:'وصل حد الاستخدام مؤقتاً.'}
+    return AIError(f'Groq [{stage}] HTTP {error.code}'+(' — '+code if code else '')+
+                   '\n'+hints.get(error.code,'تعذر الاتصال بالمحرك.')+' دورك محفوظ.')
+
+
 class Groq:
     def __init__(self, key, model='openai/gpt-oss-120b'):
         self.key, self.model = key, model
@@ -154,11 +179,35 @@ class Groq:
                     delay = 60
                 self.blocked_until = time.monotonic() + delay
                 raise AIError('Groq وصل حد الاستخدام مؤقتاً. جرّب لاحقاً؛ دورك محفوظ.') from None
-            if e.code in {401,403}:
-                raise AIError('Groq رفض المفتاح أو صلاحية الحساب. راجع إعدادات الاستضافة؛ دورك محفوظ.') from None
-            raise AIError('تعذر الاتصال بـGroq. راجع الموديل وإعداداته؛ دورك محفوظ.') from None
+            raise groq_http_error(e,'referee') from None
         except (KeyError, ValueError, TypeError, OSError, IndexError):
             raise AIError('تعذر الحصول على جواب موثوق من Groq؛ دورك محفوظ.') from None
+
+
+    def diagnose(self):
+        payload={'model':self.model,'messages':[{'role':'user','content':'Reply with OK only.'}],
+                 'max_completion_tokens':512,'reasoning_effort':'low'}
+        steps=[]
+        for stage in ['connection','search']:
+            if stage=='search':
+                payload.update(tools=[{'type':'browser_search'}],tool_choice='required',
+                               max_completion_tokens=2048,
+                               messages=[{'role':'user','content':'Search the official FIFA website and briefly confirm football is played by two teams. Include a source URL.'}])
+            try:
+                data=request_json('https://api.groq.com/openai/v1/chat/completions',payload,
+                                  {'Authorization':'Bearer '+self.key},timeout=60)
+                choice=data['choices'][0]
+                if choice.get('finish_reason')!='stop' or not choice['message'].get('content'):
+                    steps.append(stage+': الرد ناقص؛ الاتصال نجح لكن الفحص غير حاسم.')
+                    break
+                steps.append(stage+': ✅ نجح طلب '+('الاتصال بالموديل' if stage=='connection' else 'البحث الإلزامي'))
+            except urllib.error.HTTPError as e:
+                steps.append(str(groq_http_error(e,stage)))
+                break
+            except (KeyError,ValueError,TypeError,OSError,IndexError):
+                steps.append(stage+': فشل شبكة أو رد غير صالح.')
+                break
+        return '\n'.join(steps)
 
 
 class WebGroq(Groq):
@@ -242,9 +291,7 @@ Do not output names or explanations inside the result object."""
                     delay=60
                 self.blocked_until=time.monotonic()+delay
                 raise AIError('وصل حد البحث أو التوكنات مؤقتاً. دورك محفوظ؛ جرّب لاحقاً.') from None
-            if e.code in {400,401,402,403,404}:
-                raise AIError('تعذر تفعيل بحث Groq. راجع المفتاح والموديل وتوفر Browser Search بحسابك؛ دورك محفوظ.') from None
-            raise AIError('تعذر البحث حالياً؛ دورك محفوظ. جرّب لاحقاً.') from None
+            raise groq_http_error(e,'search') from None
         except (KeyError,ValueError,TypeError,OSError,IndexError):
             raise AIError('ما حصلت نتيجة بحث موثوقة؛ دورك محفوظ. جرّب لاحقاً.') from None
 
@@ -334,7 +381,7 @@ class Bot:
         if target and target.lower() != self.username:
             return
         command, arg = command.lower(), arg.strip()
-        if command not in {'/start','/help','/rules','/score','/newgame','/stop','/join','/status','/history','/guess','/ask','/pass'}:
+        if command not in {'/start','/help','/rules','/aicheck','/score','/newgame','/stop','/join','/status','/history','/guess','/ask','/pass'}:
             return
         chat, topic = m['chat']['id'], m.get('message_thread_id',0)
         uid = m.get('from',{}).get('id')
@@ -343,6 +390,15 @@ class Bot:
         name = m['from'].get('first_name','لاعب')[:60].replace('\n',' ')
         key = f'{chat}:{topic}'
         game = self.store.get(key)
+        if command == '/aicheck':
+            if m['chat']['type'] != 'private':
+                return self.send(m,'اكتب /aicheck بالخاص مع البوت حتى نفحص اتصال Groq.')
+            diagnostic_key=('aicheck',0)
+            if time.monotonic()-self.cooldowns.get(diagnostic_key,-1000)<60:
+                return self.send(m,'انتظر دقيقة بين فحوصات الاتصال.')
+            self.cooldowns[diagnostic_key]=time.monotonic()
+            primary=self.ai.primary if isinstance(self.ai,FallbackAI) else self.ai
+            return self.send(m,primary.diagnose())
         if command == '/rules':
             return self.send(m,RULES)
         if command in {'/start','/help'}:
@@ -489,7 +545,7 @@ class Bot:
 
 
 def main():
-    token, key = os.getenv('BOT_TOKEN'), os.getenv('GROQ_API_KEY')
+    token, key = os.getenv('BOT_TOKEN','').strip(), os.getenv('GROQ_API_KEY','').strip()
     if not token or not key:
         raise SystemExit('Set BOT_TOKEN and GROQ_API_KEY. See README_AR.txt')
     model = os.getenv('GROQ_MODEL','openai/gpt-oss-120b')
