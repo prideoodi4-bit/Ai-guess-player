@@ -1,0 +1,4342 @@
+[
+  {
+    "id": 1,
+    "name": "Kylian Mbappe",
+    "display_name": "مبابي",
+    "aliases": [
+      "مبابي",
+      "Kylian Mbappe",
+      "كيليان مبابي",
+      "Mbappe"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Monaco",
+        "Paris Saint-Germain",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2018
+      ]
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 2,
+    "name": "Vinicius Junior",
+    "display_name": "فينيسيوس",
+    "aliases": [
+      "فينيسيوس",
+      "Vinicius Junior",
+      "Junior"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Flamengo",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 3,
+    "name": "Rodrygo",
+    "display_name": "رودريغو",
+    "aliases": [
+      "رودريغو",
+      "Rodrygo"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Santos",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 4,
+    "name": "Endrick",
+    "display_name": "إندريك",
+    "aliases": [
+      "إندريك",
+      "Endrick"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Palmeiras",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 5,
+    "name": "Jude Bellingham",
+    "display_name": "بيلينغهام",
+    "aliases": [
+      "بيلينغهام",
+      "Jude Bellingham"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Birmingham City",
+        "Borussia Dortmund",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 6,
+    "name": "Federico Valverde",
+    "display_name": "فالفيردي",
+    "aliases": [
+      "فالفيردي",
+      "Federico Valverde",
+      "Valverde"
+    ],
+    "facts": {
+      "national_team": "Uruguay",
+      "national_team_continent": "South America",
+      "primary_role": "midfielder",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Penarol",
+        "Deportivo La Coruna",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 7,
+    "name": "Eduardo Camavinga",
+    "display_name": "كامافينغا",
+    "aliases": [
+      "كامافينغا",
+      "Eduardo Camavinga",
+      "Camavinga"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Rennes",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 8,
+    "name": "Aurelien Tchouameni",
+    "display_name": "تشواميني",
+    "aliases": [
+      "تشواميني",
+      "Aurelien Tchouameni",
+      "Tchouameni"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bordeaux",
+        "Monaco",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 9,
+    "name": "Arda Guler",
+    "display_name": "أردا غولر",
+    "aliases": [
+      "أردا غولر",
+      "Arda Guler",
+      "Guler"
+    ],
+    "facts": {
+      "national_team": "Turkey",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Fenerbahce",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 10,
+    "name": "Brahim Diaz",
+    "display_name": "إبراهيم دياز",
+    "aliases": [
+      "إبراهيم دياز",
+      "Brahim Diaz"
+    ],
+    "facts": {
+      "national_team": "Morocco",
+      "national_team_continent": "Africa",
+      "primary_role": "midfielder",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester City",
+        "AC Milan",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 11,
+    "name": "Antonio Rudiger",
+    "display_name": "روديغر",
+    "aliases": [
+      "روديغر",
+      "Antonio Rudiger",
+      "Rudiger"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Stuttgart",
+        "Roma",
+        "Chelsea",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 12,
+    "name": "Dean Huijsen",
+    "display_name": "دين هويسن",
+    "aliases": [
+      "دين هويسن",
+      "Dean Huijsen",
+      "Huijsen"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Real Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Juventus",
+        "Roma",
+        "Bournemouth",
+        "Real Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.realmadrid.com/en-US/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 13,
+    "name": "Lamine Yamal",
+    "display_name": "لامين يامال",
+    "aliases": [
+      "لامين يامال",
+      "Lamine Yamal",
+      "يامال",
+      "Yamal"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 14,
+    "name": "Raphinha",
+    "display_name": "رافينيا",
+    "aliases": [
+      "رافينيا",
+      "Raphinha",
+      "رافينها"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Vitoria Guimaraes",
+        "Sporting CP",
+        "Rennes",
+        "Leeds United",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 15,
+    "name": "Pedri",
+    "display_name": "بيدري",
+    "aliases": [
+      "بيدري",
+      "Pedri"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Las Palmas",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 16,
+    "name": "Gavi",
+    "display_name": "غافي",
+    "aliases": [
+      "غافي",
+      "Gavi"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 17,
+    "name": "Frenkie de Jong",
+    "display_name": "فرينكي دي يونغ",
+    "aliases": [
+      "فرينكي دي يونغ",
+      "Frenkie de Jong",
+      "Jong"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Willem II",
+        "Ajax",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 18,
+    "name": "Dani Olmo",
+    "display_name": "داني أولمو",
+    "aliases": [
+      "داني أولمو",
+      "Dani Olmo",
+      "Olmo"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Dinamo Zagreb",
+        "RB Leipzig",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 19,
+    "name": "Fermin Lopez",
+    "display_name": "فيرمين لوبيز",
+    "aliases": [
+      "فيرمين لوبيز",
+      "Fermin Lopez",
+      "Lopez"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Linares Deportivo",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 20,
+    "name": "Pau Cubarsi",
+    "display_name": "باو كوبارسي",
+    "aliases": [
+      "باو كوبارسي",
+      "Pau Cubarsi",
+      "Cubarsi"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 21,
+    "name": "Alejandro Balde",
+    "display_name": "أليخاندرو بالدي",
+    "aliases": [
+      "أليخاندرو بالدي",
+      "Alejandro Balde",
+      "Balde"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 22,
+    "name": "Jules Kounde",
+    "display_name": "جول كوندي",
+    "aliases": [
+      "جول كوندي",
+      "Jules Kounde",
+      "كوندي",
+      "Kounde"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bordeaux",
+        "Sevilla",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 23,
+    "name": "Joan Garcia",
+    "display_name": "خوان غارسيا",
+    "aliases": [
+      "خوان غارسيا",
+      "Joan Garcia",
+      "جوان غارسيا",
+      "Garcia"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Espanyol",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 24,
+    "name": "Joao Cancelo",
+    "display_name": "جواو كانسيلو",
+    "aliases": [
+      "جواو كانسيلو",
+      "Joao Cancelo",
+      "كانسيلو",
+      "Cancelo"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Barcelona",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Benfica",
+        "Valencia",
+        "Inter Milan",
+        "Juventus",
+        "Manchester City",
+        "Bayern Munich",
+        "Al Hilal",
+        "Barcelona"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.fcbarcelona.com/en/football/first-team/players"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 25,
+    "name": "Erling Haaland",
+    "display_name": "هالاند",
+    "aliases": [
+      "هالاند",
+      "Erling Haaland",
+      "ارلينغ هالاند",
+      "Haaland",
+      "هالند"
+    ],
+    "facts": {
+      "national_team": "Norway",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bryne",
+        "Molde",
+        "Red Bull Salzburg",
+        "Borussia Dortmund",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 26,
+    "name": "Phil Foden",
+    "display_name": "فيل فودين",
+    "aliases": [
+      "فيل فودين",
+      "Phil Foden",
+      "Foden"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 27,
+    "name": "Rayan Cherki",
+    "display_name": "ريان شرقي",
+    "aliases": [
+      "ريان شرقي",
+      "Rayan Cherki",
+      "Cherki"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Lyon",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 28,
+    "name": "Jeremy Doku",
+    "display_name": "جيريمي دوكو",
+    "aliases": [
+      "جيريمي دوكو",
+      "Jeremy Doku",
+      "Doku"
+    ],
+    "facts": {
+      "national_team": "Belgium",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Anderlecht",
+        "Rennes",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 29,
+    "name": "Enzo Fernandez",
+    "display_name": "إنزو فرنانديز",
+    "aliases": [
+      "إنزو فرنانديز",
+      "Enzo Fernandez",
+      "Fernandez"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "midfielder",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "River Plate",
+        "Defensa y Justicia",
+        "Benfica",
+        "Chelsea",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 30,
+    "name": "Mateo Kovacic",
+    "display_name": "ماتيو كوفاتشيتش",
+    "aliases": [
+      "ماتيو كوفاتشيتش",
+      "Mateo Kovacic",
+      "Kovacic"
+    ],
+    "facts": {
+      "national_team": "Croatia",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Dinamo Zagreb",
+        "Inter Milan",
+        "Real Madrid",
+        "Chelsea",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 31,
+    "name": "Ruben Dias",
+    "display_name": "روبن دياز",
+    "aliases": [
+      "روبن دياز",
+      "Ruben Dias",
+      "Dias"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Benfica",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 32,
+    "name": "Josko Gvardiol",
+    "display_name": "يوشكو غفارديول",
+    "aliases": [
+      "يوشكو غفارديول",
+      "Josko Gvardiol",
+      "Gvardiol"
+    ],
+    "facts": {
+      "national_team": "Croatia",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Dinamo Zagreb",
+        "RB Leipzig",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 33,
+    "name": "Gianluigi Donnarumma",
+    "display_name": "دوناروما",
+    "aliases": [
+      "دوناروما",
+      "Gianluigi Donnarumma",
+      "Donnarumma"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "AC Milan",
+        "Paris Saint-Germain",
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 34,
+    "name": "Rico Lewis",
+    "display_name": "ريكو لويس",
+    "aliases": [
+      "ريكو لويس",
+      "Rico Lewis",
+      "ريكو",
+      "Lewis"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Manchester City",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester City"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 35,
+    "name": "Bukayo Saka",
+    "display_name": "بوكايو ساكا",
+    "aliases": [
+      "بوكايو ساكا",
+      "Bukayo Saka",
+      "Saka"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 36,
+    "name": "Martin Odegaard",
+    "display_name": "أوديغارد",
+    "aliases": [
+      "أوديغارد",
+      "Martin Odegaard",
+      "Odegaard"
+    ],
+    "facts": {
+      "national_team": "Norway",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Stromsgodset",
+        "Real Madrid",
+        "Heerenveen",
+        "Vitesse",
+        "Real Sociedad",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 37,
+    "name": "Declan Rice",
+    "display_name": "ديكلان رايس",
+    "aliases": [
+      "ديكلان رايس",
+      "Declan Rice",
+      "Rice"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "West Ham United",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 38,
+    "name": "Viktor Gyokeres",
+    "display_name": "فيكتور غيوكيريس",
+    "aliases": [
+      "فيكتور غيوكيريس",
+      "Viktor Gyokeres",
+      "Gyokeres"
+    ],
+    "facts": {
+      "national_team": "Sweden",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Brommapojkarna",
+        "Brighton",
+        "St Pauli",
+        "Swansea City",
+        "Coventry City",
+        "Sporting CP",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 39,
+    "name": "Kai Havertz",
+    "display_name": "كاي هافرتز",
+    "aliases": [
+      "كاي هافرتز",
+      "Kai Havertz",
+      "Havertz"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bayer Leverkusen",
+        "Chelsea",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 40,
+    "name": "Eberechi Eze",
+    "display_name": "إيبيريشي إيزي",
+    "aliases": [
+      "إيبيريشي إيزي",
+      "Eberechi Eze",
+      "Eze"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Queens Park Rangers",
+        "Wycombe Wanderers",
+        "Crystal Palace",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 41,
+    "name": "Mikel Merino",
+    "display_name": "ميكيل ميرينو",
+    "aliases": [
+      "ميكيل ميرينو",
+      "Mikel Merino",
+      "Merino"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Osasuna",
+        "Borussia Dortmund",
+        "Newcastle United",
+        "Real Sociedad",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 42,
+    "name": "Martin Zubimendi",
+    "display_name": "مارتن زوبيميندي",
+    "aliases": [
+      "مارتن زوبيميندي",
+      "Martin Zubimendi",
+      "Zubimendi"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Real Sociedad",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 43,
+    "name": "William Saliba",
+    "display_name": "ويليام ساليبا",
+    "aliases": [
+      "ويليام ساليبا",
+      "William Saliba",
+      "ساليبا",
+      "Saliba"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Saint-Etienne",
+        "Nice",
+        "Marseille",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 44,
+    "name": "Gabriel Magalhaes",
+    "display_name": "غابرييل ماغالهايس",
+    "aliases": [
+      "غابرييل ماغالهايس",
+      "Gabriel Magalhaes",
+      "غابرييل",
+      "جابرييل",
+      "Magalhaes"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "defender",
+      "current_club": "Arsenal",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Avai",
+        "Lille",
+        "Troyes",
+        "Dinamo Zagreb",
+        "Arsenal"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 45,
+    "name": "Alexander Isak",
+    "display_name": "ألكسندر إيزاك",
+    "aliases": [
+      "ألكسندر إيزاك",
+      "Alexander Isak",
+      "Isak"
+    ],
+    "facts": {
+      "national_team": "Sweden",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "AIK",
+        "Borussia Dortmund",
+        "Willem II",
+        "Real Sociedad",
+        "Newcastle United",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 46,
+    "name": "Florian Wirtz",
+    "display_name": "فلوريان فيرتز",
+    "aliases": [
+      "فلوريان فيرتز",
+      "Florian Wirtz",
+      "Wirtz"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bayer Leverkusen",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 47,
+    "name": "Dominik Szoboszlai",
+    "display_name": "سوبوسلاي",
+    "aliases": [
+      "سوبوسلاي",
+      "Dominik Szoboszlai",
+      "Szoboszlai"
+    ],
+    "facts": {
+      "national_team": "Hungary",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Red Bull Salzburg",
+        "RB Leipzig",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 48,
+    "name": "Alexis Mac Allister",
+    "display_name": "ماك أليستر",
+    "aliases": [
+      "ماك أليستر",
+      "Alexis Mac Allister",
+      "Allister"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "midfielder",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Argentinos Juniors",
+        "Brighton",
+        "Boca Juniors",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 49,
+    "name": "Ryan Gravenberch",
+    "display_name": "غرافينبيرخ",
+    "aliases": [
+      "غرافينبيرخ",
+      "Ryan Gravenberch",
+      "Gravenberch"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Ajax",
+        "Bayern Munich",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 50,
+    "name": "Cody Gakpo",
+    "display_name": "كودي غاكبو",
+    "aliases": [
+      "كودي غاكبو",
+      "Cody Gakpo",
+      "Gakpo"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "PSV",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 51,
+    "name": "Hugo Ekitike",
+    "display_name": "هوغو إيكيتيكي",
+    "aliases": [
+      "هوغو إيكيتيكي",
+      "Hugo Ekitike",
+      "Ekitike"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Reims",
+        "Paris Saint-Germain",
+        "Eintracht Frankfurt",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 52,
+    "name": "Virgil van Dijk",
+    "display_name": "فان دايك",
+    "aliases": [
+      "فان دايك",
+      "Virgil van Dijk",
+      "فيرجيل فان دايك",
+      "Dijk"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Groningen",
+        "Celtic",
+        "Southampton",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 53,
+    "name": "Alisson Becker",
+    "display_name": "أليسون",
+    "aliases": [
+      "أليسون",
+      "Alisson Becker",
+      "اليسون",
+      "Alisson",
+      "Becker"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "goalkeeper",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Internacional",
+        "Roma",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 54,
+    "name": "Jeremie Frimpong",
+    "display_name": "جيريمي فريمبونغ",
+    "aliases": [
+      "جيريمي فريمبونغ",
+      "Jeremie Frimpong",
+      "Frimpong"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Liverpool",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Celtic",
+        "Bayer Leverkusen",
+        "Liverpool"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 55,
+    "name": "Cole Palmer",
+    "display_name": "كول بالمر",
+    "aliases": [
+      "كول بالمر",
+      "Cole Palmer",
+      "Palmer"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester City",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 56,
+    "name": "Moises Caicedo",
+    "display_name": "مويسيس كايسيدو",
+    "aliases": [
+      "مويسيس كايسيدو",
+      "Moises Caicedo",
+      "Caicedo"
+    ],
+    "facts": {
+      "national_team": "Ecuador",
+      "national_team_continent": "South America",
+      "primary_role": "midfielder",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Independiente del Valle",
+        "Brighton",
+        "Beerschot",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 57,
+    "name": "Joao Pedro",
+    "display_name": "جواو بيدرو",
+    "aliases": [
+      "جواو بيدرو",
+      "Joao Pedro",
+      "Pedro"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Fluminense",
+        "Watford",
+        "Brighton",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 58,
+    "name": "Pedro Neto",
+    "display_name": "بيدرو نيتو",
+    "aliases": [
+      "بيدرو نيتو",
+      "Pedro Neto",
+      "Neto"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Braga",
+        "Lazio",
+        "Wolverhampton Wanderers",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 59,
+    "name": "Reece James",
+    "display_name": "ريس جيمس",
+    "aliases": [
+      "ريس جيمس",
+      "Reece James",
+      "James"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Wigan Athletic",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 60,
+    "name": "Malo Gusto",
+    "display_name": "مالو غوستو",
+    "aliases": [
+      "مالو غوستو",
+      "Malo Gusto",
+      "Gusto"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Lyon",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 61,
+    "name": "Wesley Fofana",
+    "display_name": "ويسلي فوفانا",
+    "aliases": [
+      "ويسلي فوفانا",
+      "Wesley Fofana",
+      "Fofana"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Saint-Etienne",
+        "Leicester City",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 62,
+    "name": "Levi Colwill",
+    "display_name": "ليفي كولويل",
+    "aliases": [
+      "ليفي كولويل",
+      "Levi Colwill",
+      "Colwill"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Huddersfield Town",
+        "Brighton",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 63,
+    "name": "Estevao Willian",
+    "display_name": "إستيفاو ويليان",
+    "aliases": [
+      "إستيفاو ويليان",
+      "Estevao Willian",
+      "Willian"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Chelsea",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Palmeiras",
+        "Chelsea"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.chelseafc.com/en/news/article/chelsea-squad-numbers-confirmed-for-the-2026-27-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 64,
+    "name": "Liam Delap",
+    "display_name": "ليام ديلاب",
+    "aliases": [
+      "ليام ديلاب",
+      "Liam Delap",
+      "ديلاب",
+      "Delap"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Nottingham Forest",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester City",
+        "Stoke City",
+        "Preston North End",
+        "Hull City",
+        "Ipswich Town",
+        "Chelsea",
+        "Nottingham Forest"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.premierleague.com/en/news/4725682/all-20-premier-league-clubs-squad-numbers-for-202627-season"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 65,
+    "name": "Bruno Fernandes",
+    "display_name": "برونو فرنانديز",
+    "aliases": [
+      "برونو فرنانديز",
+      "Bruno Fernandes",
+      "Fernandes"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Novara",
+        "Udinese",
+        "Sampdoria",
+        "Sporting CP",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 66,
+    "name": "Matheus Cunha",
+    "display_name": "ماتيوس كونيا",
+    "aliases": [
+      "ماتيوس كونيا",
+      "Matheus Cunha",
+      "Cunha"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Sion",
+        "RB Leipzig",
+        "Hertha Berlin",
+        "Atletico Madrid",
+        "Wolverhampton Wanderers",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 67,
+    "name": "Bryan Mbeumo",
+    "display_name": "برايان مبيومو",
+    "aliases": [
+      "برايان مبيومو",
+      "Bryan Mbeumo",
+      "Mbeumo"
+    ],
+    "facts": {
+      "national_team": "Cameroon",
+      "national_team_continent": "Africa",
+      "primary_role": "forward",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Troyes",
+        "Brentford",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 68,
+    "name": "Amad Diallo",
+    "display_name": "أماد ديالو",
+    "aliases": [
+      "أماد ديالو",
+      "Amad Diallo",
+      "Diallo"
+    ],
+    "facts": {
+      "national_team": "Ivory Coast",
+      "national_team_continent": "Africa",
+      "primary_role": "forward",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Atalanta",
+        "Rangers",
+        "Sunderland",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 69,
+    "name": "Benjamin Sesko",
+    "display_name": "بنيامين شيسكو",
+    "aliases": [
+      "بنيامين شيسكو",
+      "Benjamin Sesko",
+      "Sesko"
+    ],
+    "facts": {
+      "national_team": "Slovenia",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Red Bull Salzburg",
+        "FC Liefering",
+        "RB Leipzig",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 70,
+    "name": "Joshua Zirkzee",
+    "display_name": "جوشوا زيركزي",
+    "aliases": [
+      "جوشوا زيركزي",
+      "Joshua Zirkzee",
+      "Zirkzee"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bayern Munich",
+        "Parma",
+        "Anderlecht",
+        "Bologna",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 71,
+    "name": "Kobbie Mainoo",
+    "display_name": "كوبي ماينو",
+    "aliases": [
+      "كوبي ماينو",
+      "Kobbie Mainoo",
+      "Mainoo"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 72,
+    "name": "Mason Mount",
+    "display_name": "ماسون ماونت",
+    "aliases": [
+      "ماسون ماونت",
+      "Mason Mount",
+      "Mount"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Chelsea",
+        "Vitesse",
+        "Derby County",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 73,
+    "name": "Matthijs de Ligt",
+    "display_name": "ماتياس دي ليخت",
+    "aliases": [
+      "ماتياس دي ليخت",
+      "Matthijs de Ligt",
+      "Ligt"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Ajax",
+        "Juventus",
+        "Bayern Munich",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 74,
+    "name": "Lisandro Martinez",
+    "display_name": "ليساندرو مارتينيز",
+    "aliases": [
+      "ليساندرو مارتينيز",
+      "Lisandro Martinez"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "defender",
+      "current_club": "Manchester United",
+      "current_league": "Premier League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Newells Old Boys",
+        "Defensa y Justicia",
+        "Ajax",
+        "Manchester United"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://www.manutd.com/en/teams/mens-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 75,
+    "name": "Harry Kane",
+    "display_name": "هاري كين",
+    "aliases": [
+      "هاري كين",
+      "Harry Kane",
+      "Kane"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Tottenham Hotspur",
+        "Leyton Orient",
+        "Millwall",
+        "Norwich City",
+        "Leicester City",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 76,
+    "name": "Jamal Musiala",
+    "display_name": "جمال موسيالا",
+    "aliases": [
+      "جمال موسيالا",
+      "Jamal Musiala",
+      "Musiala"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 77,
+    "name": "Michael Olise",
+    "display_name": "مايكل أوليسيه",
+    "aliases": [
+      "مايكل أوليسيه",
+      "Michael Olise",
+      "Olise"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Reading",
+        "Crystal Palace",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 78,
+    "name": "Luis Diaz",
+    "display_name": "لويس دياز",
+    "aliases": [
+      "لويس دياز",
+      "Luis Diaz"
+    ],
+    "facts": {
+      "national_team": "Colombia",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barranquilla",
+        "Junior",
+        "Porto",
+        "Liverpool",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 79,
+    "name": "Joshua Kimmich",
+    "display_name": "كيميش",
+    "aliases": [
+      "كيميش",
+      "Joshua Kimmich",
+      "Kimmich"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "RB Leipzig",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 80,
+    "name": "Manuel Neuer",
+    "display_name": "مانويل نوير",
+    "aliases": [
+      "مانويل نوير",
+      "Manuel Neuer",
+      "نوير",
+      "Neuer"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Schalke 04",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2014
+      ]
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 81,
+    "name": "Alphonso Davies",
+    "display_name": "ألفونسو ديفيز",
+    "aliases": [
+      "ألفونسو ديفيز",
+      "Alphonso Davies",
+      "Davies"
+    ],
+    "facts": {
+      "national_team": "Canada",
+      "national_team_continent": "North America",
+      "primary_role": "defender",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Vancouver Whitecaps",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 82,
+    "name": "Dayot Upamecano",
+    "display_name": "دايوت أوباميكانو",
+    "aliases": [
+      "دايوت أوباميكانو",
+      "Dayot Upamecano",
+      "Upamecano"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Red Bull Salzburg",
+        "RB Leipzig",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 83,
+    "name": "Jonathan Tah",
+    "display_name": "جوناثان تاه",
+    "aliases": [
+      "جوناثان تاه",
+      "Jonathan Tah",
+      "Tah"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Hamburg",
+        "Fortuna Dusseldorf",
+        "Bayer Leverkusen",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 84,
+    "name": "Serge Gnabry",
+    "display_name": "سيرج غنابري",
+    "aliases": [
+      "سيرج غنابري",
+      "Serge Gnabry",
+      "Gnabry"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Bayern Munich",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Arsenal",
+        "West Bromwich Albion",
+        "Werder Bremen",
+        "Hoffenheim",
+        "Bayern Munich"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://fcbayern.com/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 85,
+    "name": "Ousmane Dembele",
+    "display_name": "عثمان ديمبيلي",
+    "aliases": [
+      "عثمان ديمبيلي",
+      "Ousmane Dembele",
+      "Dembele"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Rennes",
+        "Borussia Dortmund",
+        "Barcelona",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2018
+      ]
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 86,
+    "name": "Khvicha Kvaratskhelia",
+    "display_name": "كفاراتسخيليا",
+    "aliases": [
+      "كفاراتسخيليا",
+      "Khvicha Kvaratskhelia",
+      "Kvaratskhelia"
+    ],
+    "facts": {
+      "national_team": "Georgia",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Dinamo Tbilisi",
+        "Rustavi",
+        "Lokomotiv Moscow",
+        "Rubin Kazan",
+        "Dinamo Batumi",
+        "Napoli",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 87,
+    "name": "Vitinha",
+    "display_name": "فيتينيا",
+    "aliases": [
+      "فيتينيا",
+      "Vitinha"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Porto",
+        "Wolverhampton Wanderers",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 88,
+    "name": "Joao Neves",
+    "display_name": "جواو نيفيز",
+    "aliases": [
+      "جواو نيفيز",
+      "Joao Neves",
+      "Neves"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Benfica",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 89,
+    "name": "Desire Doue",
+    "display_name": "ديزيريه دويه",
+    "aliases": [
+      "ديزيريه دويه",
+      "Desire Doue",
+      "Doue"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Rennes",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 90,
+    "name": "Fabian Ruiz",
+    "display_name": "فابيان رويز",
+    "aliases": [
+      "فابيان رويز",
+      "Fabian Ruiz",
+      "Ruiz"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Real Betis",
+        "Elche",
+        "Napoli",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 91,
+    "name": "Marquinhos",
+    "display_name": "ماركينيوس",
+    "aliases": [
+      "ماركينيوس",
+      "Marquinhos"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "defender",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Corinthians",
+        "Roma",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 92,
+    "name": "Nuno Mendes",
+    "display_name": "نونو مينديز",
+    "aliases": [
+      "نونو مينديز",
+      "Nuno Mendes",
+      "Mendes"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Sporting CP",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 93,
+    "name": "Warren Zaire Emery",
+    "display_name": "وارين زائير إيمري",
+    "aliases": [
+      "وارين زائير إيمري",
+      "Warren Zaire Emery",
+      "Emery"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 94,
+    "name": "Lucas Chevalier",
+    "display_name": "لوكاس شوفالييه",
+    "aliases": [
+      "لوكاس شوفالييه",
+      "Lucas Chevalier",
+      "Chevalier"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "Paris Saint-Germain",
+      "current_league": "Ligue 1",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Lille",
+        "Valenciennes",
+        "Paris Saint-Germain"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.psg.fr/en/content/paris-squad-for-le-classique-psg-om-ligue-1-2026-2027"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 95,
+    "name": "Lautaro Martinez",
+    "display_name": "لاوتارو مارتينيز",
+    "aliases": [
+      "لاوتارو مارتينيز",
+      "Lautaro Martinez"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Racing Club",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 96,
+    "name": "Marcus Thuram",
+    "display_name": "ماركوس تورام",
+    "aliases": [
+      "ماركوس تورام",
+      "Marcus Thuram"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Sochaux",
+        "Guingamp",
+        "Borussia Monchengladbach",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 97,
+    "name": "Nicolo Barella",
+    "display_name": "نيكولو باريلا",
+    "aliases": [
+      "نيكولو باريلا",
+      "Nicolo Barella",
+      "Barella"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Cagliari",
+        "Como",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 98,
+    "name": "Hakan Calhanoglu",
+    "display_name": "هاكان تشالهان أوغلو",
+    "aliases": [
+      "هاكان تشالهان أوغلو",
+      "Hakan Calhanoglu",
+      "Calhanoglu"
+    ],
+    "facts": {
+      "national_team": "Turkey",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Karlsruher SC",
+        "Hamburg",
+        "Bayer Leverkusen",
+        "AC Milan",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 99,
+    "name": "Henrikh Mkhitaryan",
+    "display_name": "هنريك مخيتاريان",
+    "aliases": [
+      "هنريك مخيتاريان",
+      "Henrikh Mkhitaryan",
+      "Mkhitaryan"
+    ],
+    "facts": {
+      "national_team": "Armenia",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Pyunik",
+        "Metalurh Donetsk",
+        "Shakhtar Donetsk",
+        "Borussia Dortmund",
+        "Manchester United",
+        "Arsenal",
+        "Roma",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 100,
+    "name": "Piotr Zielinski",
+    "display_name": "بيوتر زيلينسكي",
+    "aliases": [
+      "بيوتر زيلينسكي",
+      "Piotr Zielinski",
+      "Zielinski"
+    ],
+    "facts": {
+      "national_team": "Poland",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Udinese",
+        "Empoli",
+        "Napoli",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 101,
+    "name": "Alessandro Bastoni",
+    "display_name": "أليساندرو باستوني",
+    "aliases": [
+      "أليساندرو باستوني",
+      "Alessandro Bastoni",
+      "Bastoni"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Atalanta",
+        "Parma",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 102,
+    "name": "Federico Dimarco",
+    "display_name": "فيديريكو ديماركو",
+    "aliases": [
+      "فيديريكو ديماركو",
+      "Federico Dimarco",
+      "Dimarco"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Ascoli",
+        "Empoli",
+        "Sion",
+        "Parma",
+        "Hellas Verona",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 103,
+    "name": "Benjamin Pavard",
+    "display_name": "بنجامين بافارد",
+    "aliases": [
+      "بنجامين بافارد",
+      "Benjamin Pavard",
+      "Pavard"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Lille",
+        "Stuttgart",
+        "Bayern Munich",
+        "Marseille",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2018
+      ]
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 104,
+    "name": "Manuel Akanji",
+    "display_name": "مانويل أكانجي",
+    "aliases": [
+      "مانويل أكانجي",
+      "Manuel Akanji",
+      "Akanji"
+    ],
+    "facts": {
+      "national_team": "Switzerland",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Inter Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Winterthur",
+        "Basel",
+        "Borussia Dortmund",
+        "Manchester City",
+        "Inter Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.inter.it/en/teams/first-team"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 105,
+    "name": "Kenan Yildiz",
+    "display_name": "كينان يلدز",
+    "aliases": [
+      "كينان يلدز",
+      "Kenan Yildiz",
+      "Yildiz"
+    ],
+    "facts": {
+      "national_team": "Turkey",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 106,
+    "name": "Francisco Conceicao",
+    "display_name": "فرانسيسكو كونسيساو",
+    "aliases": [
+      "فرانسيسكو كونسيساو",
+      "Francisco Conceicao",
+      "Conceicao"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Porto",
+        "Ajax",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 107,
+    "name": "Randal Kolo Muani",
+    "display_name": "راندال كولو مواني",
+    "aliases": [
+      "راندال كولو مواني",
+      "Randal Kolo Muani",
+      "Muani"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Nantes",
+        "Boulogne",
+        "Eintracht Frankfurt",
+        "Paris Saint-Germain",
+        "Tottenham Hotspur",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 108,
+    "name": "Manuel Locatelli",
+    "display_name": "مانويل لوكاتيلي",
+    "aliases": [
+      "مانويل لوكاتيلي",
+      "Manuel Locatelli",
+      "Locatelli"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "AC Milan",
+        "Sassuolo",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 109,
+    "name": "Teun Koopmeiners",
+    "display_name": "تيون كوبماينرز",
+    "aliases": [
+      "تيون كوبماينرز",
+      "Teun Koopmeiners",
+      "Koopmeiners"
+    ],
+    "facts": {
+      "national_team": "Netherlands",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "AZ Alkmaar",
+        "Atalanta",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 110,
+    "name": "Khephren Thuram",
+    "display_name": "كيفرين تورام",
+    "aliases": [
+      "كيفرين تورام",
+      "Khephren Thuram"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Monaco",
+        "Nice",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 111,
+    "name": "Gleison Bremer",
+    "display_name": "غليسون بريمر",
+    "aliases": [
+      "غليسون بريمر",
+      "Gleison Bremer",
+      "Bremer"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "defender",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Atletico Mineiro",
+        "Torino",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 112,
+    "name": "Federico Gatti",
+    "display_name": "فيديريكو غاتي",
+    "aliases": [
+      "فيديريكو غاتي",
+      "Federico Gatti",
+      "Gatti"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Juventus",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Pro Patria",
+        "Frosinone",
+        "Juventus"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.juventus.com/en/teams/first-team-men/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 113,
+    "name": "Julian Alvarez",
+    "display_name": "جوليان ألفاريز",
+    "aliases": [
+      "جوليان ألفاريز",
+      "Julian Alvarez",
+      "Alvarez"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "River Plate",
+        "Manchester City",
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 114,
+    "name": "Antoine Griezmann",
+    "display_name": "أنطوان غريزمان",
+    "aliases": [
+      "أنطوان غريزمان",
+      "Antoine Griezmann",
+      "Griezmann"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Real Sociedad",
+        "Barcelona",
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2018
+      ]
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 115,
+    "name": "Alexander Sorloth",
+    "display_name": "ألكسندر سورلوث",
+    "aliases": [
+      "ألكسندر سورلوث",
+      "Alexander Sorloth",
+      "Sorloth"
+    ],
+    "facts": {
+      "national_team": "Norway",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Rosenborg",
+        "Bodo Glimt",
+        "Groningen",
+        "Midtjylland",
+        "Crystal Palace",
+        "Gent",
+        "Trabzonspor",
+        "RB Leipzig",
+        "Real Sociedad",
+        "Villarreal",
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 116,
+    "name": "Jan Oblak",
+    "display_name": "يان أوبلاك",
+    "aliases": [
+      "يان أوبلاك",
+      "Jan Oblak",
+      "Oblak"
+    ],
+    "facts": {
+      "national_team": "Slovenia",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Olimpija Ljubljana",
+        "Benfica",
+        "Rio Ave",
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 117,
+    "name": "Koke",
+    "display_name": "كوكي",
+    "aliases": [
+      "كوكي",
+      "Koke"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 118,
+    "name": "Marcos Llorente",
+    "display_name": "ماركوس يورينتي",
+    "aliases": [
+      "ماركوس يورينتي",
+      "Marcos Llorente",
+      "Llorente"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Real Madrid",
+        "Alaves",
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 119,
+    "name": "Pablo Barrios",
+    "display_name": "بابلو باريوس",
+    "aliases": [
+      "بابلو باريوس",
+      "Pablo Barrios",
+      "Barrios"
+    ],
+    "facts": {
+      "national_team": "Spain",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 120,
+    "name": "Jose Maria Gimenez",
+    "display_name": "خوسيه ماريا خيمينيز",
+    "aliases": [
+      "خوسيه ماريا خيمينيز",
+      "Jose Maria Gimenez",
+      "Gimenez"
+    ],
+    "facts": {
+      "national_team": "Uruguay",
+      "national_team_continent": "South America",
+      "primary_role": "defender",
+      "current_club": "Atletico Madrid",
+      "current_league": "La Liga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Danubio",
+        "Atletico Madrid"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2025-2026-2"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 121,
+    "name": "Kevin De Bruyne",
+    "display_name": "كيفن دي بروين",
+    "aliases": [
+      "كيفن دي بروين",
+      "Kevin De Bruyne",
+      "دي بروين",
+      "دي بروينه",
+      "De Bruyne",
+      "Bruyne"
+    ],
+    "facts": {
+      "national_team": "Belgium",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Napoli",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Genk",
+        "Chelsea",
+        "Werder Bremen",
+        "Wolfsburg",
+        "Manchester City",
+        "Napoli"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 122,
+    "name": "Scott McTominay",
+    "display_name": "سكوت مكتوميناي",
+    "aliases": [
+      "سكوت مكتوميناي",
+      "Scott McTominay",
+      "McTominay"
+    ],
+    "facts": {
+      "national_team": "Scotland",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Napoli",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester United",
+        "Napoli"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 123,
+    "name": "Stanislav Lobotka",
+    "display_name": "ستانيسلاف لوبوتكا",
+    "aliases": [
+      "ستانيسلاف لوبوتكا",
+      "Stanislav Lobotka",
+      "Lobotka"
+    ],
+    "facts": {
+      "national_team": "Slovakia",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Napoli",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Trencin",
+        "Nordsjaelland",
+        "Celta Vigo",
+        "Napoli"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 124,
+    "name": "Andre Frank Anguissa",
+    "display_name": "أندريه فرانك أنغيسا",
+    "aliases": [
+      "أندريه فرانك أنغيسا",
+      "Andre Frank Anguissa",
+      "Anguissa"
+    ],
+    "facts": {
+      "national_team": "Cameroon",
+      "national_team_continent": "Africa",
+      "primary_role": "midfielder",
+      "current_club": "Napoli",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Marseille",
+        "Fulham",
+        "Villarreal",
+        "Napoli"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 125,
+    "name": "David Neres",
+    "display_name": "دافيد نيريس",
+    "aliases": [
+      "دافيد نيريس",
+      "David Neres",
+      "Neres"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Napoli",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Sao Paulo",
+        "Ajax",
+        "Benfica",
+        "Napoli"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 126,
+    "name": "Giovanni Di Lorenzo",
+    "display_name": "جيوفاني دي لورينزو",
+    "aliases": [
+      "جيوفاني دي لورينزو",
+      "Giovanni Di Lorenzo",
+      "Lorenzo"
+    ],
+    "facts": {
+      "national_team": "Italy",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Napoli",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Reggina",
+        "Matera",
+        "Empoli",
+        "Napoli"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 127,
+    "name": "Luka Modric",
+    "display_name": "لوكا مودريتش",
+    "aliases": [
+      "لوكا مودريتش",
+      "Luka Modric",
+      "مودريتش",
+      "Modric"
+    ],
+    "facts": {
+      "national_team": "Croatia",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "AC Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Dinamo Zagreb",
+        "Tottenham Hotspur",
+        "Real Madrid",
+        "AC Milan"
+      ],
+      "career_club_list_is_complete": false,
+      "won_mens_ballon_dor_at_least_once": true
+    },
+    "sources": [
+      "https://www.acmilan.com/en/news/articles/serie-a/2026-09-20/ac-milan-vs-lecce-the-official-line-ups"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 128,
+    "name": "Christian Pulisic",
+    "display_name": "كريستيان بوليسيتش",
+    "aliases": [
+      "كريستيان بوليسيتش",
+      "Christian Pulisic",
+      "Pulisic"
+    ],
+    "facts": {
+      "national_team": "USA",
+      "national_team_continent": "North America",
+      "primary_role": "forward",
+      "current_club": "AC Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Borussia Dortmund",
+        "Chelsea",
+        "AC Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.acmilan.com/en/news/articles/serie-a/2026-09-20/ac-milan-vs-lecce-the-official-line-ups"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 129,
+    "name": "Adrien Rabiot",
+    "display_name": "أدريان رابيو",
+    "aliases": [
+      "أدريان رابيو",
+      "Adrien Rabiot",
+      "Rabiot"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "AC Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Paris Saint-Germain",
+        "Toulouse",
+        "Juventus",
+        "Marseille",
+        "AC Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.acmilan.com/en/news/articles/serie-a/2026-09-20/ac-milan-vs-lecce-the-official-line-ups"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 130,
+    "name": "Mike Maignan",
+    "display_name": "مايك مينيان",
+    "aliases": [
+      "مايك مينيان",
+      "Mike Maignan",
+      "Maignan"
+    ],
+    "facts": {
+      "national_team": "France",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "AC Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Lille",
+        "AC Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.acmilan.com/en/news/articles/serie-a/2026-09-20/ac-milan-vs-lecce-the-official-line-ups"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 131,
+    "name": "Fikayo Tomori",
+    "display_name": "فيكايو توموري",
+    "aliases": [
+      "فيكايو توموري",
+      "Fikayo Tomori",
+      "Tomori"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "AC Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Chelsea",
+        "Brighton",
+        "Hull City",
+        "Derby County",
+        "AC Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.acmilan.com/en/news/articles/serie-a/2026-09-20/ac-milan-vs-lecce-the-official-line-ups"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 132,
+    "name": "Ruben Loftus Cheek",
+    "display_name": "روبن لوفتوس تشيك",
+    "aliases": [
+      "روبن لوفتوس تشيك",
+      "Ruben Loftus Cheek",
+      "Cheek"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "AC Milan",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Chelsea",
+        "Crystal Palace",
+        "Fulham",
+        "AC Milan"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.acmilan.com/en/news/articles/serie-a/2026-09-20/ac-milan-vs-lecce-the-official-line-ups"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 133,
+    "name": "Serhou Guirassy",
+    "display_name": "سيرهو غيراسي",
+    "aliases": [
+      "سيرهو غيراسي",
+      "Serhou Guirassy",
+      "Guirassy"
+    ],
+    "facts": {
+      "national_team": "Guinea",
+      "national_team_continent": "Africa",
+      "primary_role": "forward",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Laval",
+        "Lille",
+        "Auxerre",
+        "Cologne",
+        "Amiens",
+        "Rennes",
+        "Stuttgart",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 134,
+    "name": "Maximilian Beier",
+    "display_name": "ماكسيميليان باير",
+    "aliases": [
+      "ماكسيميليان باير",
+      "Maximilian Beier",
+      "Beier"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Hoffenheim",
+        "Hannover 96",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 135,
+    "name": "Marcel Sabitzer",
+    "display_name": "مارسيل سابيتزر",
+    "aliases": [
+      "مارسيل سابيتزر",
+      "Marcel Sabitzer",
+      "Sabitzer"
+    ],
+    "facts": {
+      "national_team": "Austria",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Admira Wacker",
+        "Rapid Vienna",
+        "Red Bull Salzburg",
+        "RB Leipzig",
+        "Bayern Munich",
+        "Manchester United",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 136,
+    "name": "Felix Nmecha",
+    "display_name": "فيليكس نميشا",
+    "aliases": [
+      "فيليكس نميشا",
+      "Felix Nmecha",
+      "Nmecha"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Manchester City",
+        "Wolfsburg",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 137,
+    "name": "Jobe Bellingham",
+    "display_name": "جوب بيلينغهام",
+    "aliases": [
+      "جوب بيلينغهام",
+      "Jobe Bellingham",
+      "جوب"
+    ],
+    "facts": {
+      "national_team": "England",
+      "national_team_continent": "Europe",
+      "primary_role": "midfielder",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Birmingham City",
+        "Sunderland",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 138,
+    "name": "Nico Schlotterbeck",
+    "display_name": "نيكو شلوتربيك",
+    "aliases": [
+      "نيكو شلوتربيك",
+      "Nico Schlotterbeck",
+      "Schlotterbeck"
+    ],
+    "facts": {
+      "national_team": "Germany",
+      "national_team_continent": "Europe",
+      "primary_role": "defender",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Freiburg",
+        "Union Berlin",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 139,
+    "name": "Gregor Kobel",
+    "display_name": "غريغور كوبيل",
+    "aliases": [
+      "غريغور كوبيل",
+      "Gregor Kobel",
+      "Kobel"
+    ],
+    "facts": {
+      "national_team": "Switzerland",
+      "national_team_continent": "Europe",
+      "primary_role": "goalkeeper",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Hoffenheim",
+        "Augsburg",
+        "Stuttgart",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 140,
+    "name": "Ramy Bensebaini",
+    "display_name": "رامي بن سبعيني",
+    "aliases": [
+      "رامي بن سبعيني",
+      "Ramy Bensebaini",
+      "Bensebaini"
+    ],
+    "facts": {
+      "national_team": "Algeria",
+      "national_team_continent": "Africa",
+      "primary_role": "defender",
+      "current_club": "Borussia Dortmund",
+      "current_league": "Bundesliga",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Paradou",
+        "Lierse",
+        "Montpellier",
+        "Rennes",
+        "Borussia Monchengladbach",
+        "Borussia Dortmund"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/squad/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 141,
+    "name": "Lionel Messi",
+    "display_name": "ليونيل ميسي",
+    "aliases": [
+      "ليونيل ميسي",
+      "Lionel Messi",
+      "ميسي",
+      "Messi"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Inter Miami",
+      "current_league": "MLS",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barcelona",
+        "Paris Saint-Germain",
+        "Inter Miami"
+      ],
+      "career_club_list_is_complete": false,
+      "won_mens_ballon_dor_at_least_once": true,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://www.intermiamicf.com/roster/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 142,
+    "name": "Cristiano Ronaldo",
+    "display_name": "كريستيانو رونالدو",
+    "aliases": [
+      "كريستيانو رونالدو",
+      "Cristiano Ronaldo",
+      "رونالدو",
+      "كريستيانو",
+      "CR7",
+      "Ronaldo"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Al Nassr",
+      "current_league": "Saudi Pro League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Sporting CP",
+        "Manchester United",
+        "Real Madrid",
+        "Juventus",
+        "Al Nassr"
+      ],
+      "career_club_list_is_complete": false,
+      "won_mens_ballon_dor_at_least_once": true
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 143,
+    "name": "Neymar",
+    "display_name": "نيمار",
+    "aliases": [
+      "نيمار",
+      "Neymar",
+      "Neymar Jr"
+    ],
+    "facts": {
+      "national_team": "Brazil",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Santos",
+      "current_league": "Brazil Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Barcelona",
+        "Paris Saint-Germain",
+        "Al Hilal",
+        "Santos"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Neymar"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 144,
+    "name": "Mohamed Salah",
+    "display_name": "محمد صلاح",
+    "aliases": [
+      "محمد صلاح",
+      "Mohamed Salah",
+      "صلاح",
+      "Salah"
+    ],
+    "facts": {
+      "national_team": "Egypt",
+      "national_team_continent": "Africa",
+      "primary_role": "forward",
+      "current_club": "Trabzonspor",
+      "current_league": "Turkish Super Lig",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Al Mokawloon",
+        "Basel",
+        "Chelsea",
+        "Fiorentina",
+        "Roma",
+        "Liverpool",
+        "Trabzonspor"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.liverpoolfc.com/news/mohamed-salah-signs-trabzonspor"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 145,
+    "name": "Robert Lewandowski",
+    "display_name": "روبرت ليفاندوفسكي",
+    "aliases": [
+      "روبرت ليفاندوفسكي",
+      "Robert Lewandowski",
+      "ليفاندوفسكي",
+      "ليواندوفسكي",
+      "Lewandowski"
+    ],
+    "facts": {
+      "national_team": "Poland",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Chicago Fire",
+      "current_league": "MLS",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Znicz Pruszkow",
+        "Lech Poznan",
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "Barcelona",
+        "Chicago Fire"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Lewandowski"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 146,
+    "name": "Son Heung Min",
+    "display_name": "سون هيونغ مين",
+    "aliases": [
+      "سون هيونغ مين",
+      "Son Heung Min",
+      "Min"
+    ],
+    "facts": {
+      "national_team": "South Korea",
+      "national_team_continent": "Asia",
+      "primary_role": "forward",
+      "current_club": "LAFC",
+      "current_league": "MLS",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Hamburg",
+        "Bayer Leverkusen",
+        "Tottenham Hotspur",
+        "LAFC"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.lafc.com/players/son-heung-min/news/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 147,
+    "name": "Victor Osimhen",
+    "display_name": "فيكتور أوسيمين",
+    "aliases": [
+      "فيكتور أوسيمين",
+      "Victor Osimhen",
+      "اوسيمين",
+      "اوسيمهن",
+      "Osimhen"
+    ],
+    "facts": {
+      "national_team": "Nigeria",
+      "national_team_continent": "Africa",
+      "primary_role": "forward",
+      "current_club": "Galatasaray",
+      "current_league": "Turkish Super Lig",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Wolfsburg",
+        "Charleroi",
+        "Lille",
+        "Napoli",
+        "Galatasaray"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/players/250132987--victor-osimhen/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 148,
+    "name": "Paulo Dybala",
+    "display_name": "باولو ديبالا",
+    "aliases": [
+      "باولو ديبالا",
+      "Paulo Dybala",
+      "Dybala"
+    ],
+    "facts": {
+      "national_team": "Argentina",
+      "national_team_continent": "South America",
+      "primary_role": "forward",
+      "current_club": "Roma",
+      "current_league": "Serie A",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Instituto",
+        "Palermo",
+        "Juventus",
+        "Roma"
+      ],
+      "career_club_list_is_complete": false,
+      "known_world_cup_wins_as_player": [
+        2022
+      ]
+    },
+    "sources": [
+      "https://fbref.com/en/players/e0921a4f/matchlogs/2026-2027/summary/Paulo-Dybala-Match-Logs"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 149,
+    "name": "Sadio Mane",
+    "display_name": "ساديو ماني",
+    "aliases": [
+      "ساديو ماني",
+      "Sadio Mane",
+      "Mane"
+    ],
+    "facts": {
+      "national_team": "Senegal",
+      "national_team_continent": "Africa",
+      "primary_role": "forward",
+      "current_club": "Al Nassr",
+      "current_league": "Saudi Pro League",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Metz",
+        "Red Bull Salzburg",
+        "Southampton",
+        "Liverpool",
+        "Bayern Munich",
+        "Al Nassr"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  },
+  {
+    "id": 150,
+    "name": "Rafael Leao",
+    "display_name": "رافائيل لياو",
+    "aliases": [
+      "رافائيل لياو",
+      "Rafael Leao",
+      "لياو",
+      "Leao"
+    ],
+    "facts": {
+      "national_team": "Portugal",
+      "national_team_continent": "Europe",
+      "primary_role": "forward",
+      "current_club": "Galatasaray",
+      "current_league": "Turkish Super Lig",
+      "club_snapshot_date": "2026-10-03",
+      "known_senior_clubs_played_for": [
+        "Sporting CP",
+        "Lille",
+        "AC Milan",
+        "Galatasaray"
+      ],
+      "career_club_list_is_complete": false
+    },
+    "sources": [
+      "https://www.uefa.com/uefachampionsleague/clubs/players/250132987--victor-osimhen/"
+    ],
+    "verification_note": "Current-club snapshot checked against roster sources; historical club list is a partial curated reference, not an exhaustive or independently sourced career record."
+  }
+]
