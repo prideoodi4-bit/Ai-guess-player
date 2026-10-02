@@ -1,0 +1,18 @@
+النسخة الجديدة: بحث ويب وقت السؤال بواسطة Groq، 150 لاعباً.
+ارفع محتويات المشروع بحيث bot.py وDockerfile يكونان في جذر GitHub.
+Railway Variables:
+BOT_TOKEN = توكن BotFather
+GROQ_API_KEY = مفتاح Groq
+GROQ_MODEL = openai/gpt-oss-120b
+WEB_SEARCH = 1
+DB_PATH = /data/bot.db
+أضف Volume لخدمة البوت، Mount Path = /data لحفظ النقاط والكيم.
+Start Command = python bot.py، Replicas = 1، Serverless مغلق.
+ضيف البوت للكروب واسمح إرسال الرسائل.
+داخل الكروب أو القسم: /newgame، ثم شخصان يكتبان /join.
+/ask السؤال، /guess اسم اللاعب، /rules تعريف أندية التوب.
+لا تحتاج مفتاح بحث منفصل؛ Groq ينفذ Browser Search إن كان متاحاً بحسابك.
+لا نضمن توفره أو مجانيته أو حصته لكل حساب؛ اختبر /ask بعد النشر.
+لا يفعل البرنامج الاشتراك المدفوع أو الترقية تلقائياً.
+إذا فشل البحث، يبقى دورك ولا نرجع سراً إلى المعلومات القديمة.
+التفاصيل في README_AR.txt.
